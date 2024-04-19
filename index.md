@@ -10,4 +10,4 @@
 
 [Электромеханические измерительные приборы](https://plushie-neko.github.io/to-be-removed/6.html)
 
-[Шунты и добавочные резисторы](https://plushie-neko.github.io/to-be-removed/6.html)
+[Шунты и добавочные резисторы](https://plushie-neko.github.io/to-be-removed/7.html)
