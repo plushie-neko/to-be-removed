@@ -1,3 +1,5 @@
+## Электрорадиоизмерение
+
 [Аналоговые электронные вольтметры](https://plushie-neko.github.io/to-be-removed/1.html)
 
 [Выпрямители](https://plushie-neko.github.io/to-be-removed/2.html)
@@ -11,3 +13,5 @@
 [Электромеханические измерительные приборы](https://plushie-neko.github.io/to-be-removed/6.html)
 
 [Шунты и добавочные резисторы](https://plushie-neko.github.io/to-be-removed/7.html)
+
+[Осциллографы](https://plushie-neko.github.io/to-be-removed/8.html)
